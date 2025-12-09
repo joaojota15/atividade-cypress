@@ -10,3 +10,4 @@ João Victor de Lima - 01693174
 comando iniciar npx cypress open
 
 O ARQUIVO "CODIGO UNIFICADO" ESTÁ TODA AUTOMACAO EM UM UNICO CODIGO
+TESTES ESTAO NO 'E2E'
